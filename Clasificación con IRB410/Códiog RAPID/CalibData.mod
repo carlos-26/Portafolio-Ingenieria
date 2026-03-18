@@ -1,0 +1,4 @@
+MODULE CalibData
+    TASK PERS wobjdata RMESA:=[FALSE,TRUE,"",[[300,-95,260],[0.707106781,0,0,-0.707106781]],[[0,0,0],[1,0,0,0]]];
+    TASK PERS wobjdata RDEPOSITO:=[FALSE,TRUE,"",[[300,50,120],[1,0,0,0]],[[0,0,0],[1,0,0,0]]];
+ENDMODULE
